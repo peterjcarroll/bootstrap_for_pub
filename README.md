@@ -5,7 +5,7 @@ Just a pub package of Bootstrap,
 for developing responsive, mobile first
 projects on the web."
 
-Currently contains Bootstrap 3.3.7.
+Currently contains Bootstrap 3.3.7. Updated to use the 'html' library which replaced 'html5lib'.
 
 ## Installation
 

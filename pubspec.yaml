@@ -9,6 +9,8 @@ authors:
 - Richer Larivière <richerlariviere@gmail.com>
 version: 3.3.7
 homepage: https://github.com/richerlariviere/bootstrap_for_pub
+environment:
+  sdk: '>=2.0.0 <3.0.0'
 dependencies:
   # barback: ">=0.14.1+3 <0.16.0"
   # html: ">=0.14.0 <0.15.0"

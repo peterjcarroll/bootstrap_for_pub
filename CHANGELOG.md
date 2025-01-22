@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 3.4.0+1
+
+* Update package to bootstrap 3.4.1 and jquery 3.5.0 
+
 ## 3.3.0+7
 
 * Update package to bootstrap 3.3.7 and jquery 3.1.1 
